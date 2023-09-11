@@ -1,3 +1,4 @@
 # MyFirstRepo
-## Header 1
-My first Repo
+My first repository
+---
+Katie Yeloushan Demos 2023 and beyond!
